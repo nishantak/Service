@@ -2,7 +2,7 @@
 Submission to Caterpillar Inc. Code-a-thon. 
 
 <div align="center">
-<img src="libs/gui/assets/img/logo.png" alt="logo" style="width:50%;"/>
+<img src="libs/gui/assets/img/logo.jpg" alt="logo" style="width:50%;"/>
 </div>
 
 VICAS is an AI-enhanced software designed to simplify and streamline the inspection process, and make it more accessible for service technicians. The application offers speech recognition, dynamic prompts, and image captures to allow for a fast and efficient inspection. The software suggests restorative measures and summarizes the inspection findings. It also records consumer feedback, incorporating sentiment analysis. Finally, it compiles a structred and detailed PDF report.
